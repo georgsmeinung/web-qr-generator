@@ -1,7 +1,8 @@
 # QR Code Generator
 
 Simple app to generate a QR code that can be used to share a link.
-
+ 
+Forked from https://github.com/bradtraversy/qr-code-generator
 
 ### MIT License
 
